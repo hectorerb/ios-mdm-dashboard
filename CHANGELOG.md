@@ -12,4 +12,4 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Bug Fixes
 
-* **travis:** share scheme project ([07ce3f1](https://github.com/flyve-mdm/ios-mdm-dashboard/commit/07ce3f1))
+* **travis:** share scheme project ([07ce3f1](https://github.com/hectorerb/ios-mdm-dashboard/commit/07ce3f1))
